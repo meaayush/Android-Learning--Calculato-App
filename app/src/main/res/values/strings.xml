@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="calc_text">0</string>
+    <string name="noSeven">7</string>
+    <string name="noEight">8</string>
+    <string name="noNine">9</string>
+    <string name="Divide">/</string>
+    <string name="noFour">4</string>
+    <string name="noFive">5</string>
+    <string name="noSix">6</string>
+    <string name="Multiply">*</string>
+    <string name="noOne">1</string>
+    <string name="noTwo">2</string>
+    <string name="noThree">3</string>
+    <string name="Subtract">-</string>
+    <string name="noZero">0</string>
+    <string name="CLR">CLR</string>
+    <string name="Add">+</string>
+    <string name="equals">=</string>
+    <string name="Dot">.</string>
+</resources>
